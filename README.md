@@ -1,2 +1,2 @@
 # movie-recommendation-app
-ReelFinder app
+RealFinder app
